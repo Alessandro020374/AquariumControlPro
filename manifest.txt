@@ -1,0 +1,4 @@
+12.3
+https://github.com/Alessandro020374/AquariumControlPro/raw/refs/heads/main/firmware-12.3.bin
+# Correção de bugs
+# Melhorias na estabilidade
